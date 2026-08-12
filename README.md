@@ -3,7 +3,7 @@
 </div>
 
 <div style="display: flex; justify-content: center; gap: 2px;" align="center">
-  <a href="https://www.linkedin.com/in/iangelmanueldm">
+  <a href="https://www.linkedin.com/in/iangelmanuel">
     <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-LinkedIn?logo=linkedin&logoColor=white&logoSize=60&labelColor=black&color=black&link=https%3A%2F%2Fgithub.com%2FiAngelManuel">
   </a>
 
@@ -129,7 +129,7 @@
 
 - 📫 ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴘʀᴏᴊᴇᴄᴛ ɪᴅᴇᴀꜱ, ꜱᴇɴᴅ ᴍᴇ ᴀɴ ᴇᴍᴀɪʟ ᴀᴛ [ᴍʏ ᴇᴍᴀɪʟ](mailto:iangelmanuel02@gmail.com)
 - 📝 ʜᴀᴠᴇ ᴀ ʟᴏᴏᴋ ᴀᴛ ᴍʏ ᴘᴏʀᴛꜰᴏʟɪᴏ: [ᴍʏ ᴘᴏʀᴛꜰᴏʟɪᴏ](https://iangeldelatorre.com)
-- 📲 ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ: [ʟɪɴᴋᴇᴅɪɴ](https://www.linkedin.com/in/iangelmanueldm)
+- 📲 ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ: [ʟɪɴᴋᴇᴅɪɴ](https://www.linkedin.com/in/iangelmanuel)
 
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </p>
