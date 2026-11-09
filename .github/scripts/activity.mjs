@@ -3,8 +3,8 @@
 import { readFileSync, writeFileSync } from "node:fs";
 
 const { glyphs, staticPaths } = JSON.parse(readFileSync(new URL("./activity-glyphs.json", import.meta.url), "utf8"));
-const BG = "#010101";
-const LEVELS = { NONE: "#141518", FIRST_QUARTILE: "#2c4f80", SECOND_QUARTILE: "#3d6ca8", THIRD_QUARTILE: "#4f88d3", FOURTH_QUARTILE: "#60a3fd" };
+const BG = "#101a2e";
+const LEVELS = { NONE: "#182540", FIRST_QUARTILE: "#2c4f80", SECOND_QUARTILE: "#3d6ca8", THIRD_QUARTILE: "#4f88d3", FOURTH_QUARTILE: "#60a3fd" };
 
 const response = await fetch("https://api.github.com/graphql", {
   method: "POST",
