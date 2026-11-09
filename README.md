@@ -1,9 +1,67 @@
 <div align="center">
-<img src="assets/banner.gif" width="100%" align="top" alt="Angel De La Torre. JavaScript Full Stack Developer, Founder of Verlun, AI Agent Builder, International Business and Finance, Marketing for Business, Management, Videogame Lover.">
-<a href="https://angeldm.dev"><img src="assets/button-portfolio.svg" width="16.66%" align="top" alt="Portfolio"></a><a href="https://verlun.com"><img src="assets/button-verlun.svg" width="16.66%" align="top" alt="Verlun"></a><a href="https://www.linkedin.com/in/iangelmanuel"><img src="assets/button-linkedin.svg" width="16.66%" align="top" alt="LinkedIn"></a><a href="https://x.com/iangelmanuel"><img src="assets/button-x.svg" width="16.66%" align="top" alt="X"></a><a href="https://instagram.com/iangelmanuel"><img src="assets/button-instagram.svg" width="16.66%" align="top" alt="Instagram"></a><a href="mailto:iangelmanuel02@gmail.com"><img src="assets/button-email.svg" width="16.66%" align="top" alt="Email"></a>
-<img src="assets/stack.svg" width="100%" align="top" alt="Stack. Languages: JavaScript, TypeScript. Frontend: React, Next.js, Astro, Tailwind CSS. Backend: Node.js, Express, Prisma. Data: PostgreSQL, Supabase, MongoDB. Cloud and tools: Vercel, Cloudflare, Docker, Git.">
-<img src="assets/activity.svg" width="100%" align="top" alt="GitHub activity over the last 12 months: contributions, commits, pull requests, best streak and contribution calendar.">
-<img src="assets/experience.svg" width="100%" align="top" alt="Experience. Founder and Full Stack Developer at Verlun, 2023 to now, remote. Admin Assistant and Junior Data Analyst at Importex S.A.S., internship, March to September 2026. Web Developer, freelance, January to May 2023, remote.">
-<img src="assets/recognition.svg" width="100%" align="top" alt="Recognition">
-<a href="https://hub.xerj.org/contributors/iangelmanuel"><img alt="XERJ Corpus Hub contributor" src="https://hub.xerj.org/contributors/iangelmanuel/badge.svg"></a>
+  <img
+    src="assets/banner.gif"
+    width="100%"
+    align="top"
+    alt="Angel De La Torre. JavaScript Full Stack Developer, Founder of Verlun, AI Agent Builder, International Business and Finance, Marketing for Business, Management, Videogame Lover."
+  >
+  <a href="https://angeldm.dev"><img
+    src="assets/button-portfolio.svg"
+    width="16.66%"
+    align="top"
+    alt="Portfolio"
+  ></a><a href="https://verlun.com"><img
+    src="assets/button-verlun.svg"
+    width="16.66%"
+    align="top"
+    alt="Verlun"
+  ></a><a href="https://www.linkedin.com/in/iangelmanuel"><img
+    src="assets/button-linkedin.svg"
+    width="16.66%"
+    align="top"
+    alt="LinkedIn"
+  ></a><a href="https://x.com/iangelmanuel"><img
+    src="assets/button-x.svg"
+    width="16.66%"
+    align="top"
+    alt="X"
+  ></a><a href="https://instagram.com/iangelmanuel"><img
+    src="assets/button-instagram.svg"
+    width="16.66%"
+    align="top"
+    alt="Instagram"
+  ></a><a href="mailto:iangelmanuel02@gmail.com"><img
+    src="assets/button-email.svg"
+    width="16.66%"
+    align="top"
+    alt="Email"
+  ></a>
+  <img
+    src="assets/stack.svg"
+    width="100%"
+    align="top"
+    alt="Stack. Languages: JavaScript, TypeScript. Frontend: React, Next.js, Astro, Tailwind CSS. Backend: Node.js, Express, Prisma. Data: PostgreSQL, Supabase, MongoDB. Cloud and tools: Vercel, Cloudflare, Docker, Git."
+  >
+  <img
+    src="assets/activity.svg"
+    width="100%"
+    align="top"
+    alt="GitHub activity over the last 12 months: contributions, commits, pull requests, best streak and contribution calendar."
+  >
+  <img
+    src="assets/experience.svg"
+    width="100%"
+    align="top"
+    alt="Experience. Founder and Full Stack Developer at Verlun, 2023 to now, remote. Admin Assistant and Junior Data Analyst at Importex S.A.S., internship, March to September 2026. Web Developer, freelance, January to May 2023, remote."
+  >
+  <img
+    src="assets/recognition.svg"
+    width="100%"
+    align="top"
+    alt="Recognition"
+  >
+  <a href="https://hub.xerj.org/contributors/iangelmanuel"><img
+    alt="XERJ Corpus Hub contributor"
+    src="https://hub.xerj.org/contributors/iangelmanuel/badge.svg"
+  ></a>
 </div>

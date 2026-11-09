@@ -3,8 +3,8 @@
 import { readFileSync, writeFileSync } from "node:fs";
 
 const { glyphs, staticPaths } = JSON.parse(readFileSync(new URL("./activity-glyphs.json", import.meta.url), "utf8"));
-const BG = "#101a2e";
-const LEVELS = { NONE: "#182540", FIRST_QUARTILE: "#2c4f80", SECOND_QUARTILE: "#3d6ca8", THIRD_QUARTILE: "#4f88d3", FOURTH_QUARTILE: "#60a3fd" };
+const BG = "#0a0e14";
+const LEVELS = { NONE: "#161c26", FIRST_QUARTILE: "#2c4f80", SECOND_QUARTILE: "#3d6ca8", THIRD_QUARTILE: "#4f88d3", FOURTH_QUARTILE: "#60a3fd" };
 
 const response = await fetch("https://api.github.com/graphql", {
   method: "POST",
@@ -49,13 +49,18 @@ const cells = weeks
   )
   .join("\n");
 
+// One element per line, so the committed SVG stays readable after each refresh.
+const elements = [`<rect width="1200" height="472" fill="${BG}"/>`, staticPaths, numbers, cells]
+  .join("\n")
+  .replace(/>\s*</g, ">\n<")
+  .split("\n")
+  .map((line) => `  ${line}`)
+  .join("\n");
+
 writeFileSync(
   new URL("../../assets/activity.svg", import.meta.url),
   `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="472" viewBox="0 0 1200 472">
-<rect width="1200" height="472" fill="${BG}"/>
-${staticPaths}
-${numbers}
-${cells}
+${elements}
 </svg>
 `,
 );
